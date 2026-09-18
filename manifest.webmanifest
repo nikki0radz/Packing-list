@@ -1,0 +1,18 @@
+{
+  "name": "Packed ✦",
+  "short_name": "Packed",
+  "description": "A pretty personal packing list that remembers your trips and master list.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#17131b",
+  "theme_color": "#b86f62",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
